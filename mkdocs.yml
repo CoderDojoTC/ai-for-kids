@@ -1,0 +1,48 @@
+site_name: 'CoderDojo AI for Kids'
+nav:
+  - CoderDojo TC Mentor Resources: https://coderdojotc.github.io/CoderDojoTC/
+  - Introduction:
+    - About This Class: intro/01-intro.md
+    - What is AI: intro/02-what-is-ai.md
+    - Bias: intro/03-bias.md
+    - Explainability: intro/04-explainability.md
+    - Teachable Machine: intro/03-teachable-machine.md
+    - GPT-3: intro/gpt-3.md
+    - Image Recognition: intro/image.md
+    - Speech Recognition: intro/speech.md
+  - Hands One AI:
+    - About This Class: hands-on/01-intro.md
+    - Python Setup: hands-on/02-python-setup.md
+    - Setup Jupyter Notebooks: hands-on/j03-setup-jupyter-notebook.md
+    - MNIST Digit Prediction: hands-on/mnist.md
+    - Glossary: glossary.md
+    - Resources: resources.md
+    - Contact: contact.md
+
+site_description: 'Resources for teaching AI to CoderDojo Students.'
+site_author: 'Dan McCreary'
+repo_name: 'python'
+repo_url: 'https://github.com/CoderDojoTC/ai-for-kids'
+edit_uri: 'blob/master/docs'
+theme:
+  name: material
+  logo: img/coderdojo-logo.png
+  palette:
+    primary: '#642580'
+    accent: '#41BAC1'
+  feature:
+    tabs: true
+  custom_dir: 'theme'
+  include_sidebar: true
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+plugins:
+    - search
+markdown_extensions:
+  - codehilite:
+      linenums: true
