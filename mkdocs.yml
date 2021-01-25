@@ -1,5 +1,6 @@
 site_name: 'CoderDojo AI for Kids'
 nav:
+  - Home: index.md
   - CoderDojo TC Mentor Resources: https://coderdojotc.github.io/CoderDojoTC/
   - Introduction:
     - About This Class: intro/01-intro.md
