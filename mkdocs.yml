@@ -11,7 +11,7 @@ nav:
     - GPT-3: intro/gpt-3.md
     - Image Recognition: intro/image.md
     - Speech Recognition: intro/speech.md
-  - Hands One AI:
+  - Hands On AI:
     - About This Class: hands-on/01-intro.md
     - Python Setup: hands-on/02-python-setup.md
     - Jupyter Notebooks Setup: hands-on/03-jupyter-notebook-setup.md
