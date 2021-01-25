@@ -13,7 +13,7 @@ nav:
   - Hands One AI:
     - About This Class: hands-on/01-intro.md
     - Python Setup: hands-on/02-python-setup.md
-    - Setup Jupyter Notebooks: hands-on/j03-setup-jupyter-notebook.md
+    - Jupyter Notebooks Setup: hands-on/03-jupyter-notebook-setup.md
     - MNIST Digit Prediction: hands-on/mnist.md
     - Glossary: glossary.md
     - Resources: resources.md
